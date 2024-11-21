@@ -56,9 +56,15 @@ theme:
 nav:
   - Home: index.md
   - Setup:
-    - Installation: Setup/installation.md
-    - Running: Setup/running.md
-    - Using: Setup/usage.md
+    - Table of Contents: Setup/setup.md
+    - ━━ Installation ━━:
+      - Installation: Setup/Installation/installation.md
+      - Running: Setup/Installation/running.md
+    - ━━ Configuration ━━:
+      - Configuration: Setup/Configuration/configuration.md
+    - ━━ Troubleshooting ━━:
+      - Troubleshooting: Setup/Troubleshooting/repair.md
+      - FAQ: Setup/Troubleshooting/faq.md
   - Additional:
     - Contribution: Additional/contributing.md
     - FAQ: Additional/faq.md
