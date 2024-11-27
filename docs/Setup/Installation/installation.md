@@ -16,23 +16,23 @@ Before installing Freya, ensure the following prerequisites are met:
 2. **Verify Installation**
     Run the following command to verify that the Freya CLI is installed:
 
-        freya -v
-    > If that doesnt work run: `python -m freya -v`
+        freya version
+    > If that doesnt work run: `python -m freya version`
 
 3. **Install the Freya Core**
     Run the following command to install Freya core:
 
-        freya --install core:latest
+        freya install core:latest
 
 4. **Optional**
     Install the Freya Dashboard:
 
-        freya --install dashboard:latest
+        freya install dashboard:latest
 
 4. **Verify Installation**
     Run the following command to verify the installation:
 
-        freya --list packages
+        freya list
 
 ---
 

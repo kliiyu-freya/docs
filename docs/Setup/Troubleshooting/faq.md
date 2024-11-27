@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ)
 
-This document addresses common questions about Freya. If your question isn't answered here, refer to the [Troubleshooting Guide](troubleshooting.md) or reach out for support.
+This document addresses common questions about Freya. If your question isn't answered here, refer to the [Troubleshooting Guide](repair.md) or reach out for support.
 
 ---
 
@@ -90,8 +90,8 @@ Ensure you click **Save** or **Apply Changes** in the dashboard and restart Frey
 
 -  Ensure the dashboard and core is installed:
 
-        freya --install core:latest
-        freya --install dashboard:latest
+        freya install core:latest
+        freya install dashboard:latest
 
 
 ### 12. **What should I do if Freya stops working?**

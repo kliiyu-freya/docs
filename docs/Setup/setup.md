@@ -8,5 +8,5 @@ Welcome to the guide for installing, running, using, configuring, and troublesho
 1. [Installation](Installation/installation.md)
 2. [Running Freya](Installation/running.md)
 3. [Configuration](Configuration/configuration.md)
-4. [Troubleshooting](Troubleshooting/Troubleshooting.md)
+4. [Troubleshooting](Troubleshooting/repair.md)
 5. [FAQ](Troubleshooting/faq.md)
